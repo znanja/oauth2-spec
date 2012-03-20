@@ -1,6 +1,6 @@
 # OAuth 2 Speicification
 
-This document explains the OAuth 2 specification as used by Velsoft. This is a
+This document explains the OAuth 2 specification as used by znanja. This is a
 fork of the original document at draft 9.
 
 ## How to read this spec
